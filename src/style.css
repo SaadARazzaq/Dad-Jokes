@@ -1,0 +1,22 @@
+body {
+    width: 350px;
+    height: 300px;
+    background-color: darkorange; /* Light gray background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+p {
+    font-family: 'Comic Sans MS', cursive, sans-serif; /* Because why not? */
+    font-size: 22px;
+    color: black; /* Vibrant pink text */
+    background-color: orange; /* Bright blue background */
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid black; /* Pink border for extra contrast */
+    transform: rotate(0deg); /* Tilted for a playful look */
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+    text-align: center;
+}
